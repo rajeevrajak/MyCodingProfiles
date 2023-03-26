@@ -8,7 +8,7 @@
 <h3>&#x2022; CSS</h3>
 <h3>&#x2022; Tailwind css</h3>
 <hr>
-
+<hr>
 <p>Links https://mycodingprofiles.netlify.app/</p>
 
 ![linkscoding](https://user-images.githubusercontent.com/114951150/227772577-d0eca269-6251-4c7e-b931-cca0266764f6.PNG)
